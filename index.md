@@ -1,4 +1,5 @@
 ---
+layout: curly
 Mumbai: Mumbaikar
 ---
 
