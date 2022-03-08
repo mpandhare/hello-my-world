@@ -3,11 +3,11 @@ layout: curly
 Mumbai: Mumbaikar
 ---
 
+created by {{site.author}}
 
 # hello-my-world
 # Mumbai #
 
-created by {{site.author}}
 
 **Mumbai**, formerly Bombay, city, capital of _[Maharashtra](https://www.britannica.com/place/Maharashtra) state_, southwestern India. It is the country’s financial and commercial centre and its principal port on the [Arabian Sea](https://www.britannica.com/place/Arabian-Sea).
 
