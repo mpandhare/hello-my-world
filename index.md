@@ -21,3 +21,7 @@ Mumbai, long the centre of India’s cotton textile industry, subsequently devel
 
 
 Created by {{site.Author}} at {{site.Place}}
+
+{% for item in site.data.datafile %}
+{{item.name}} {{item.number}}
+{% endfor %}
