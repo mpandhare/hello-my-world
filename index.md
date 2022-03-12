@@ -7,6 +7,8 @@ Mumbai: Mumbaikar
 # Mumbai #
 
 
+**{% include hellomyworld.txt %}**
+
 **Mumbai**, formerly Bombay, city, capital of _[Maharashtra](https://www.britannica.com/place/Maharashtra) state_, southwestern India. It is the country’s financial and commercial centre and its principal port on the [Arabian Sea](https://www.britannica.com/place/Arabian-Sea).
 
 Located on Maharashtra’s coast, Mumbai is India’s most-populous city, and it is one of the largest and most densely populated urban areas in the world. It was built on a site of ancient settlement, and it took its name from the local goddess Mumba—a form of Parvati, the consort of Shiva, one of the principal deities of Hinduism—whose temple once stood in what is now the southeastern section of the city. It became known as Bombay during the British colonial period, the name possibly an Anglicized corruption of Mumbai or perhaps of Bom Baim (“Good Harbour”), supposedly a Portuguese name for the locale. The name Mumbai was restored officially in 1995, although {{page.Mumbai}} remained in common usage.
@@ -23,5 +25,5 @@ Mumbai, long the centre of India’s cotton textile industry, subsequently devel
 Created by {{site.Author}} at {{site.Place}}
 
 {% for item in site.data.datafile %}
-{{item.name}}: {{item.number}}
+{{item.name}}{{item.number}}
 {% endfor %}
