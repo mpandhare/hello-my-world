@@ -23,8 +23,10 @@ Mumbai, long the centre of India’s cotton textile industry, subsequently devel
 -  city layout
 
 
-| country India|
-|--------------|
+|**Country**|India|
+|**State**|Maharashtra|
+|**Division**|Konkan|
+
 
 
 Created by {{site.Author}} at {{site.Place}}
